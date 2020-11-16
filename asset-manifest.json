@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Guess_The_Number/static/css/main.4395a3c8.chunk.css",
+    "main.js": "/Guess_The_Number/static/js/main.89176719.chunk.js",
+    "main.js.map": "/Guess_The_Number/static/js/main.89176719.chunk.js.map",
+    "runtime-main.js": "/Guess_The_Number/static/js/runtime-main.ab2e8009.js",
+    "runtime-main.js.map": "/Guess_The_Number/static/js/runtime-main.ab2e8009.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/Guess_The_Number/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.d3190b1e.chunk.js": "/Guess_The_Number/static/js/2.d3190b1e.chunk.js",
+    "static/js/2.d3190b1e.chunk.js.map": "/Guess_The_Number/static/js/2.d3190b1e.chunk.js.map",
+    "static/js/3.a5960c3d.chunk.js": "/Guess_The_Number/static/js/3.a5960c3d.chunk.js",
+    "static/js/3.a5960c3d.chunk.js.map": "/Guess_The_Number/static/js/3.a5960c3d.chunk.js.map",
+    "index.html": "/Guess_The_Number/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/Guess_The_Number/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.4395a3c8.chunk.css.map": "/Guess_The_Number/static/css/main.4395a3c8.chunk.css.map",
+    "static/js/2.d3190b1e.chunk.js.LICENSE.txt": "/Guess_The_Number/static/js/2.d3190b1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab2e8009.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.d3190b1e.chunk.js",
+    "static/css/main.4395a3c8.chunk.css",
+    "static/js/main.89176719.chunk.js"
+  ]
+}
