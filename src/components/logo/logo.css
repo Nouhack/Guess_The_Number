@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.NouhackClass { font-size: 2.2rem; 
+    font-family: 'Itim', cursive;
+}
+
+@media (min-width: 576px) {
+    .NouhackClass { font-size:2.4rem; }
+}
+@media (min-width: 768px) {
+    .NouhackClass { font-size:2.4rem; }
+}
+@media (min-width: 992px) {
+    .NouhackClass { font-size: 3.2rem; }
+}
+@media (min-width: 1200px) {
+    .NouhackClass { font-size: 3.9rem;
+     }
+}
+
+
+.imageSize { width: 15%; }
+
+@media (min-width: 576px) {
+    .imageSize { width: 100%; }
+}
+@media (min-width: 768px) {
+    .imageSize { width:50%; }
+}
+@media (min-width: 992px) {
+    .imageSize { width: 40%; }
+}
+@media (min-width: 1200px) {
+    .imageSize { width: 35%;
+     }
+}

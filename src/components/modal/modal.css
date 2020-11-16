@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+
+
+.BodyFont{
+    font-family: 'Syne Mono', monospace;
+
+}
+.inWrapper{
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.in{
+    width: 40%;
+    display: inline;
+    
+
+}
+
+#rightInput{
+    margin-left: 1%;
+}
+
+#leftInput{
+    margin-right: 1%;
+}
