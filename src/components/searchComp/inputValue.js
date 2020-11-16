@@ -24,7 +24,7 @@ class Value extends React.Component {
                                                         transition={{ duration: 2 }}
                                                 >
                                                         <Button
-                                                                className="incDec"
+                                                                className=""
                                                                 variant="outline-success"
                                                                 onClick={this.props.decrement}
                                                         > -</Button>
@@ -92,7 +92,7 @@ class Value extends React.Component {
                                                         transition={{ duration: 2 }}
                                                 >
                                                         <Button
-                                                                className="incDec"
+                                                                className=""
                                                                 variant="outline-success"
                                                                 onClick={this.props.increment}
                                                         > +</Button>
