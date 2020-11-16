@@ -5,7 +5,7 @@ import { HashRouter } from 'react-router-dom'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <HashRouter basename={process.env.PUBLIC_URL}>
+  <HashRouter basename="/">
     <App />
   </HashRouter>
   ,
